@@ -37,7 +37,7 @@ public class MercuryCommonUtility {
 	@BeforeTest
 	@Parameters({ "url" })
 	public void sendingUrl(String urlPassing) {
-		driver.get(urlPassing);
+		driver.get("https://demo.guru99.com/test/newtours/register.php");
 		log.info("Sending The URL Successfully");
 	}
 
