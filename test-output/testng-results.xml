@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="39559" started-at="2024-05-05T01:36:05 IST" finished-at="2024-05-05T01:36:45 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="39559" started-at="2024-05-05T01:36:05 IST" finished-at="2024-05-05T01:36:45 IST">
+      <class name="com.cjc.webapp.mercury.Test.MercuryTest">
+        <test-method status="PASS" signature="browserOpen()[pri:0, instance:com.cjc.webapp.mercury.Test.MercuryTest@646007f4]" name="browserOpen" is-config="true" duration-ms="2293" started-at="2024-05-05T01:36:03 IST" finished-at="2024-05-05T01:36:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserOpen -->
+        <test-method status="PASS" signature="sendingUrl(java.lang.String)[pri:0, instance:com.cjc.webapp.mercury.Test.MercuryTest@646007f4]" name="sendingUrl" is-config="true" duration-ms="3581" started-at="2024-05-05T01:36:05 IST" finished-at="2024-05-05T01:36:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://demo.guru99.com/test/newtours/register.php]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendingUrl -->
+        <test-method status="PASS" signature="maximizeBrowser()[pri:0, instance:com.cjc.webapp.mercury.Test.MercuryTest@646007f4]" name="maximizeBrowser" is-config="true" duration-ms="175" started-at="2024-05-05T01:36:09 IST" finished-at="2024-05-05T01:36:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizeBrowser -->
+        <test-method status="PASS" signature="addingCookies()[pri:0, instance:com.cjc.webapp.mercury.Test.MercuryTest@646007f4]" name="addingCookies" is-config="true" duration-ms="18" started-at="2024-05-05T01:36:09 IST" finished-at="2024-05-05T01:36:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingCookies -->
+        <test-method status="PASS" signature="mercuryRegister(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.cjc.webapp.mercury.Test.MercuryTest@646007f4]" name="mercuryRegister" duration-ms="13347" started-at="2024-05-05T01:36:09 IST" data-provider="getDataLazyLoading" finished-at="2024-05-05T01:36:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Harshit]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bisen]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9981206487]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[harshitbisen564@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Karvenagar]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Maharstra]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[harshitbisen123]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Harshit@123]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Harshit@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mercuryRegister -->
+        <test-method status="PASS" signature="screenShots()[pri:0, instance:com.cjc.webapp.mercury.Test.MercuryTest@646007f4]" name="screenShots" is-config="true" duration-ms="2224" started-at="2024-05-05T01:36:23 IST" finished-at="2024-05-05T01:36:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenShots -->
+        <test-method status="PASS" signature="addingCookies()[pri:0, instance:com.cjc.webapp.mercury.Test.MercuryTest@646007f4]" name="addingCookies" is-config="true" duration-ms="7" started-at="2024-05-05T01:36:25 IST" finished-at="2024-05-05T01:36:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingCookies -->
+        <test-method status="PASS" signature="mercuryLogin(java.lang.String,java.lang.String)[pri:2, instance:com.cjc.webapp.mercury.Test.MercuryTest@646007f4]" name="mercuryLogin" duration-ms="2774" started-at="2024-05-05T01:36:25 IST" data-provider="getdataEagerLoading" finished-at="2024-05-05T01:36:28 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[harshitbisen123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Harshit@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mercuryLogin -->
+        <test-method status="PASS" signature="screenShots()[pri:0, instance:com.cjc.webapp.mercury.Test.MercuryTest@646007f4]" name="screenShots" is-config="true" duration-ms="2164" started-at="2024-05-05T01:36:28 IST" finished-at="2024-05-05T01:36:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenShots -->
+        <test-method status="PASS" signature="addingCookies()[pri:0, instance:com.cjc.webapp.mercury.Test.MercuryTest@646007f4]" name="addingCookies" is-config="true" duration-ms="1" started-at="2024-05-05T01:36:30 IST" finished-at="2024-05-05T01:36:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingCookies -->
+        <test-method status="PASS" signature="filghtbooking()[pri:3, instance:com.cjc.webapp.mercury.Test.MercuryTest@646007f4]" name="filghtbooking" duration-ms="12954" started-at="2024-05-05T01:36:30 IST" finished-at="2024-05-05T01:36:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filghtbooking -->
+        <test-method status="PASS" signature="screenShots()[pri:0, instance:com.cjc.webapp.mercury.Test.MercuryTest@646007f4]" name="screenShots" is-config="true" duration-ms="2193" started-at="2024-05-05T01:36:43 IST" finished-at="2024-05-05T01:36:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenShots -->
+        <test-method status="PASS" signature="deleteCookies()[pri:0, instance:com.cjc.webapp.mercury.Test.MercuryTest@646007f4]" name="deleteCookies" is-config="true" duration-ms="81" started-at="2024-05-05T01:36:45 IST" finished-at="2024-05-05T01:36:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookies -->
+        <test-method status="PASS" signature="dataBaseConnection()[pri:0, instance:com.cjc.webapp.mercury.Test.MercuryTest@646007f4]" name="dataBaseConnection" is-config="true" duration-ms="1" started-at="2024-05-05T01:36:45 IST" finished-at="2024-05-05T01:36:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataBaseConnection -->
+        <test-method status="PASS" signature="browserClosing()[pri:0, instance:com.cjc.webapp.mercury.Test.MercuryTest@646007f4]" name="browserClosing" is-config="true" duration-ms="2120" started-at="2024-05-05T01:36:45 IST" finished-at="2024-05-05T01:36:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClosing -->
+      </class> <!-- com.cjc.webapp.mercury.Test.MercuryTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

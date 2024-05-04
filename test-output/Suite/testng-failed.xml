@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="url" value="https://demo.guru99.com/test/newtours/register.php"/>
+    <classes>
+      <class name="com.cjc.webapp.mercury.Test.MercuryTest">
+        <methods>
+          <include name="mercuryLogin"/>
+          <include name="dataBaseConnection"/>
+          <include name="browserOpen"/>
+          <include name="deleteCookies"/>
+          <include name="browserClosing"/>
+          <include name="mercuryRegister"/>
+          <include name="filghtbooking"/>
+          <include name="maximizeBrowser"/>
+          <include name="addingCookies"/>
+          <include name="screenShots"/>
+          <include name="sendingUrl"/>
+        </methods>
+      </class> <!-- com.cjc.webapp.mercury.Test.MercuryTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

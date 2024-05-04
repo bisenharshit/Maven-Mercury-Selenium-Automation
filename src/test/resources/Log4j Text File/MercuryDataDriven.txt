@@ -1,0 +1,228 @@
+DEBUG	2023-02-15 23:58:29,193	0	com.cjc.webapp.mercury.Test.MercuryTest	[main]	This is the Data Driven Framework Performed On The Mercury
+DEBUG	2023-02-16 00:02:02,020	0	com.cjc.webapp.mercury.Test.MercuryTest	[main]	This is the Data Driven Framework Performed On The Mercury
+INFO	2023-02-16 00:02:04,198	2178	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Open The Browser Successfully
+INFO	2023-02-16 00:02:14,022	12002	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Sending The URL Successfully
+INFO	2023-02-16 00:02:14,234	12214	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Maximize and Putting Wait Successfully
+INFO	2023-02-16 00:02:14,267	12247	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Adding The Cookies Successfully = 7
+INFO	2023-02-16 00:02:36,013	33993	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Mercury Register Successfully
+INFO	2023-02-16 00:02:38,314	36294	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Screen Shot Taken Successfully
+INFO	2023-02-16 00:02:38,328	36308	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Adding The Cookies Successfully = 14
+DEBUG	2023-02-16 11:30:23,187	0	com.cjc.webapp.mercury.Test.MercuryTest	[main]	This is the Data Driven Framework Performed On The Mercury
+INFO	2023-02-16 11:30:26,516	3329	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Open The Browser Successfully
+INFO	2023-02-16 11:30:29,656	6469	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Sending The URL Successfully
+INFO	2023-02-16 11:30:29,847	6660	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Maximize and Putting Wait Successfully
+INFO	2023-02-16 11:30:29,971	6784	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Adding The Cookies Successfully = 5
+INFO	2023-02-16 11:30:45,398	22211	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Mercury Register Successfully
+INFO	2023-02-16 11:30:47,782	24595	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Screen Shot Taken Successfully
+INFO	2023-02-16 11:30:47,794	24607	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Adding The Cookies Successfully = 15
+INFO	2023-02-16 11:30:55,907	32720	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Mercury Login Page Successfully
+INFO	2023-02-16 11:30:58,160	34973	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Screen Shot Taken Successfully
+INFO	2023-02-16 11:30:58,235	35048	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Delete All The Cookies Successfully
+INFO	2023-02-16 11:30:58,235	35048	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Data Base Connection Close Successfully
+INFO	2023-02-16 11:31:03,666	40479	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Browser Close Successfully
+DEBUG	2023-02-16 12:13:08,842	0	com.cjc.webapp.mercury.Test.MercuryTest	[main]	This is the Data Driven Framework Performed On The Mercury
+INFO	2023-02-16 12:13:10,983	2141	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Open The Browser Successfully
+INFO	2023-02-16 12:13:13,275	4433	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Sending The URL Successfully
+INFO	2023-02-16 12:13:13,448	4606	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Maximize and Putting Wait Successfully
+INFO	2023-02-16 12:13:13,470	4628	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Adding The Cookies Successfully = 5
+INFO	2023-02-16 12:13:27,968	19126	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Mercury Register Successfully
+INFO	2023-02-16 12:13:30,234	21392	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Screen Shot Taken Successfully
+INFO	2023-02-16 12:13:30,243	21401	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Adding The Cookies Successfully = 15
+INFO	2023-02-16 12:13:33,527	24685	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Mercury Login Page Successfully
+INFO	2023-02-16 12:13:35,689	26847	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Screen Shot Taken Successfully
+INFO	2023-02-16 12:13:35,695	26853	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Adding The Cookies Successfully = 15
+INFO	2023-02-16 12:13:51,302	42460	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Successfully Booking The Flight On Mercury
+INFO	2023-02-16 12:13:53,545	44703	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Screen Shot Taken Successfully
+INFO	2023-02-16 12:13:53,611	44769	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Delete All The Cookies Successfully
+INFO	2023-02-16 12:13:53,611	44769	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Data Base Connection Close Successfully
+INFO	2023-02-16 12:14:14,933	66091	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Browser Close Successfully
+DEBUG	2023-02-16 12:18:47,444	0	com.cjc.webapp.mercury.Test.MercuryTest	[main]	This is the Data Driven Framework Performed On The Mercury
+INFO	2023-02-16 12:18:49,050	1606	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Open The Browser Successfully
+INFO	2023-02-16 12:18:51,393	3949	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Sending The URL Successfully
+INFO	2023-02-16 12:18:51,563	4119	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Maximize and Putting Wait Successfully
+INFO	2023-02-16 12:18:51,601	4157	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Adding The Cookies Successfully = 5
+DEBUG	2023-02-16 12:55:08,364	0	com.cjc.webapp.mercury.Test.MercuryTest	[main]	This is the Data Driven Framework Performed On The Mercury
+INFO	2023-02-16 12:55:10,993	2629	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Open The Browser Successfully
+INFO	2023-02-16 12:55:13,270	4906	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Sending The URL Successfully
+INFO	2023-02-16 12:55:13,448	5084	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Maximize and Putting Wait Successfully
+INFO	2023-02-16 12:55:13,496	5132	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Adding The Cookies Successfully = 5
+INFO	2023-02-16 12:55:27,214	18850	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Mercury Register Successfully
+INFO	2023-02-16 12:55:29,412	21048	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Screen Shot Taken Successfully
+INFO	2023-02-16 12:55:29,425	21061	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Adding The Cookies Successfully = 15
+INFO	2023-02-16 12:55:43,439	35075	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Successfully Booking The Flight On Mercury
+INFO	2023-02-16 12:55:45,661	37297	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Screen Shot Taken Successfully
+INFO	2023-02-16 12:55:45,729	37365	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Delete All The Cookies Successfully
+INFO	2023-02-16 12:55:45,729	37365	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Data Base Connection Close Successfully
+DEBUG	2023-02-16 12:56:35,532	0	com.cjc.webapp.mercury.Test.MercuryTest	[main]	This is the Data Driven Framework Performed On The Mercury
+INFO	2023-02-16 12:56:37,104	1572	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Open The Browser Successfully
+INFO	2023-02-16 12:56:39,314	3782	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Sending The URL Successfully
+INFO	2023-02-16 12:56:39,490	3958	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Maximize and Putting Wait Successfully
+INFO	2023-02-16 12:56:39,529	3997	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Adding The Cookies Successfully = 5
+INFO	2023-02-16 12:56:53,322	17790	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Mercury Register Successfully
+INFO	2023-02-16 12:56:55,586	20054	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Screen Shot Taken Successfully
+INFO	2023-02-16 12:56:55,596	20064	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Adding The Cookies Successfully = 15
+INFO	2023-02-16 12:56:59,061	23529	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Mercury Login Page Successfully
+INFO	2023-02-16 12:57:01,275	25743	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Screen Shot Taken Successfully
+INFO	2023-02-16 12:57:01,281	25749	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Adding The Cookies Successfully = 15
+INFO	2023-02-16 12:57:14,745	39213	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Successfully Booking The Flight On Mercury
+INFO	2023-02-16 12:57:16,956	41424	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Screen Shot Taken Successfully
+INFO	2023-02-16 12:57:17,016	41484	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Delete All The Cookies Successfully
+INFO	2023-02-16 12:57:17,017	41485	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Data Base Connection Close Successfully
+INFO	2023-02-16 12:57:22,185	46653	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Browser Close Successfully
+DEBUG	2023-02-16 12:58:19,825	0	com.cjc.webapp.mercury.Test.MercuryTest	[main]	This is the Data Driven Framework Performed On The Mercury
+INFO	2023-02-16 12:58:21,826	2001	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Open The Browser Successfully
+INFO	2023-02-16 12:58:24,690	4865	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Sending The URL Successfully
+INFO	2023-02-16 12:58:24,867	5042	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Maximize and Putting Wait Successfully
+INFO	2023-02-16 12:58:24,888	5063	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Adding The Cookies Successfully = 11
+INFO	2023-02-16 12:58:38,689	18864	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Mercury Register Successfully
+INFO	2023-02-16 12:58:41,113	21288	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Screen Shot Taken Successfully
+INFO	2023-02-16 12:58:41,124	21299	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Adding The Cookies Successfully = 15
+INFO	2023-02-16 12:58:44,744	24919	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Mercury Login Page Successfully
+INFO	2023-02-16 12:58:46,935	27110	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Screen Shot Taken Successfully
+INFO	2023-02-16 12:58:46,941	27116	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Adding The Cookies Successfully = 15
+INFO	2023-02-16 12:59:01,764	41939	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Successfully Booking The Flight On Mercury
+INFO	2023-02-16 12:59:04,040	44215	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Screen Shot Taken Successfully
+INFO	2023-02-16 12:59:04,107	44282	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Delete All The Cookies Successfully
+INFO	2023-02-16 12:59:04,107	44282	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Data Base Connection Close Successfully
+INFO	2023-02-16 12:59:23,420	63595	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Browser Close Successfully
+DEBUG	2023-02-16 13:00:44,431	0	com.cjc.webapp.mercury.Test.MercuryTest	[main]	This is the Data Driven Framework Performed On The Mercury
+INFO	2023-02-16 13:00:46,765	2334	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Open The Browser Successfully
+INFO	2023-02-16 13:00:50,419	5988	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Sending The URL Successfully
+INFO	2023-02-16 13:00:50,689	6258	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Maximize and Putting Wait Successfully
+INFO	2023-02-16 13:00:50,725	6294	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Adding The Cookies Successfully = 8
+INFO	2023-02-16 13:01:05,500	21069	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Mercury Register Successfully
+INFO	2023-02-16 13:01:07,811	23380	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Screen Shot Taken Successfully
+INFO	2023-02-16 13:01:07,822	23391	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Adding The Cookies Successfully = 15
+INFO	2023-02-16 13:01:11,121	26690	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Mercury Login Page Successfully
+INFO	2023-02-16 13:01:13,356	28925	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Screen Shot Taken Successfully
+INFO	2023-02-16 13:01:13,366	28935	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Adding The Cookies Successfully = 15
+INFO	2023-02-16 13:01:45,140	60709	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Successfully Booking The Flight On Mercury
+INFO	2023-02-16 13:01:47,512	63081	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Screen Shot Taken Successfully
+INFO	2023-02-16 13:01:47,600	63169	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Delete All The Cookies Successfully
+INFO	2023-02-16 13:01:47,601	63170	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Data Base Connection Close Successfully
+INFO	2023-02-16 13:01:49,891	65460	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Browser Close Successfully
+DEBUG	2023-02-22 14:40:08,812	0	com.cjc.webapp.mercury.Test.MercuryTest	[main]	This is the Data Driven Framework Performed On The Mercury
+DEBUG	2023-02-22 14:48:34,996	0	com.cjc.webapp.mercury.Test.MercuryTest	[main]	This is the Data Driven Framework Performed On The Mercury
+INFO	2023-02-22 14:48:37,646	2650	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Open The Browser Successfully
+INFO	2023-02-22 14:48:42,316	7320	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Sending The URL Successfully
+INFO	2023-02-22 14:48:42,515	7519	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Maximize and Putting Wait Successfully
+INFO	2023-02-22 14:48:42,567	7571	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Adding The Cookies Successfully = 14
+INFO	2023-02-22 14:48:58,439	23443	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Mercury Register Successfully
+INFO	2023-02-22 14:49:00,772	25776	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Screen Shot Taken Successfully
+INFO	2023-02-22 14:49:00,787	25791	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Adding The Cookies Successfully = 16
+INFO	2023-02-22 14:49:07,013	32017	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Mercury Login Page Successfully
+INFO	2023-02-22 14:49:09,279	34283	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Screen Shot Taken Successfully
+INFO	2023-02-22 14:49:09,291	34295	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Adding The Cookies Successfully = 16
+INFO	2023-02-22 14:49:25,979	50983	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Successfully Booking The Flight On Mercury
+INFO	2023-02-22 14:49:28,324	53328	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Screen Shot Taken Successfully
+INFO	2023-02-22 14:49:28,431	53435	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Delete All The Cookies Successfully
+INFO	2023-02-22 14:49:28,432	53436	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Data Base Connection Close Successfully
+INFO	2023-02-22 14:49:30,951	55955	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Browser Close Successfully
+DEBUG	2023-02-22 15:01:05,510	0	com.cjc.webapp.mercury.Test.MercuryTest	[main]	This is the Data Driven Framework Performed On The Mercury
+INFO	2023-02-22 15:01:07,448	1938	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Open The Browser Successfully
+INFO	2023-02-22 15:01:11,145	5635	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Sending The URL Successfully
+INFO	2023-02-22 15:01:11,335	5825	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Maximize and Putting Wait Successfully
+INFO	2023-02-22 15:01:11,375	5865	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Adding The Cookies Successfully = 5
+INFO	2023-02-22 15:01:27,694	22184	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Mercury Register Successfully
+INFO	2023-02-22 15:01:29,969	24459	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Screen Shot Taken Successfully
+INFO	2023-02-22 15:01:29,982	24472	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Adding The Cookies Successfully = 16
+INFO	2023-02-22 15:01:33,584	28074	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Mercury Login Page Successfully
+INFO	2023-02-22 15:01:35,861	30351	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Screen Shot Taken Successfully
+INFO	2023-02-22 15:01:35,874	30364	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Adding The Cookies Successfully = 16
+INFO	2023-02-22 15:01:56,576	51066	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Successfully Booking The Flight On Mercury
+INFO	2023-02-22 15:01:58,954	53444	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Screen Shot Taken Successfully
+INFO	2023-02-22 15:01:59,085	53575	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Delete All The Cookies Successfully
+INFO	2023-02-22 15:01:59,086	53576	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Data Base Connection Close Successfully
+INFO	2023-02-22 15:02:01,412	55902	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Browser Close Successfully
+DEBUG	2023-02-23 14:49:15,452	0	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	This is the Data Driven Framework Performed On The Mercury
+INFO	2023-02-23 14:49:17,525	2073	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Open The Browser Successfully
+INFO	2023-02-23 14:49:22,910	7458	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Sending The URL Successfully
+INFO	2023-02-23 14:49:23,213	7761	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Maximize and Putting Wait Successfully
+INFO	2023-02-23 14:49:23,261	7809	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Adding The Cookies Successfully = 9
+INFO	2023-02-23 14:49:39,975	24523	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Mercury Register Successfully
+INFO	2023-02-23 14:49:42,285	26833	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Screen Shot Taken Successfully
+INFO	2023-02-23 14:49:42,301	26849	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Adding The Cookies Successfully = 16
+INFO	2023-02-23 14:49:46,372	30920	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Mercury Login Page Successfully
+INFO	2023-02-23 14:49:48,667	33215	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Screen Shot Taken Successfully
+INFO	2023-02-23 14:49:48,682	33230	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Adding The Cookies Successfully = 16
+INFO	2023-02-23 14:50:04,626	49174	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Successfully Booking The Flight On Mercury
+INFO	2023-02-23 14:50:07,004	51552	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Screen Shot Taken Successfully
+INFO	2023-02-23 14:50:07,130	51678	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Delete All The Cookies Successfully
+INFO	2023-02-23 14:50:07,131	51679	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Data Base Connection Close Successfully
+INFO	2023-02-23 14:50:09,397	53945	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Browser Close Successfully
+DEBUG	2023-02-23 14:55:20,679	0	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	This is the Data Driven Framework Performed On The Mercury
+INFO	2023-02-23 14:55:22,735	2056	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Open The Browser Successfully
+INFO	2023-02-23 14:55:28,280	7601	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Sending The URL Successfully
+INFO	2023-02-23 14:55:28,485	7806	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Maximize and Putting Wait Successfully
+INFO	2023-02-23 14:55:28,515	7836	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Adding The Cookies Successfully = 5
+INFO	2023-02-23 14:55:45,160	24481	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Mercury Register Successfully
+INFO	2023-02-23 14:55:47,495	26816	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Screen Shot Taken Successfully
+INFO	2023-02-23 14:55:47,505	26826	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Adding The Cookies Successfully = 16
+INFO	2023-02-23 14:55:56,028	35349	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Data Base Connection Close Successfully
+DEBUG	2023-02-23 14:57:28,991	0	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	This is the Data Driven Framework Performed On The Mercury
+INFO	2023-02-23 14:57:31,160	2169	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Open The Browser Successfully
+INFO	2023-02-23 14:57:44,867	15876	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Sending The URL Successfully
+INFO	2023-02-23 14:57:45,077	16086	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Maximize and Putting Wait Successfully
+INFO	2023-02-23 14:57:45,106	16115	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Adding The Cookies Successfully = 5
+INFO	2023-02-23 14:58:00,921	31930	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Mercury Register Successfully
+INFO	2023-02-23 14:58:03,263	34272	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Screen Shot Taken Successfully
+INFO	2023-02-23 14:58:03,274	34283	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Adding The Cookies Successfully = 16
+INFO	2023-02-23 14:58:45,722	76731	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Screen Shot Taken Successfully
+INFO	2023-02-23 14:58:45,738	76747	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Adding The Cookies Successfully = 15
+INFO	2023-02-23 14:58:49,507	80516	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Mercury Login Page Successfully
+INFO	2023-02-23 14:58:51,742	82751	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Screen Shot Taken Successfully
+INFO	2023-02-23 14:58:51,755	82764	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Adding The Cookies Successfully = 16
+INFO	2023-02-23 14:59:34,117	125126	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Screen Shot Taken Successfully
+INFO	2023-02-23 14:59:34,129	125138	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Adding The Cookies Successfully = 16
+INFO	2023-02-23 15:00:17,758	168767	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Screen Shot Taken Successfully
+INFO	2023-02-23 15:00:17,862	168871	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Delete All The Cookies Successfully
+INFO	2023-02-23 15:00:17,863	168872	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Data Base Connection Close Successfully
+INFO	2023-02-23 15:00:20,169	171178	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Browser Close Successfully
+DEBUG	2023-02-23 15:06:25,737	0	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	This is the Data Driven Framework Performed On The Mercury
+INFO	2023-02-23 15:06:27,950	2213	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Open The Browser Successfully
+INFO	2023-02-23 15:06:31,362	5625	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Sending The URL Successfully
+INFO	2023-02-23 15:06:31,577	5840	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Maximize and Putting Wait Successfully
+INFO	2023-02-23 15:06:31,614	5877	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Adding The Cookies Successfully = 5
+INFO	2023-02-23 15:06:48,248	22511	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Mercury Register Successfully
+DEBUG	2023-02-23 15:07:52,481	0	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	This is the Data Driven Framework Performed On The Mercury
+INFO	2023-02-23 15:07:54,819	2338	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Open The Browser Successfully
+INFO	2023-02-23 15:08:00,564	8083	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Sending The URL Successfully
+INFO	2023-02-23 15:08:00,792	8311	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Maximize and Putting Wait Successfully
+INFO	2023-02-23 15:08:00,830	8349	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Adding The Cookies Successfully = 7
+INFO	2023-02-23 15:08:16,073	23592	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Mercury Register Successfully
+INFO	2023-02-23 15:08:18,413	25932	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Screen Shot Taken Successfully
+INFO	2023-02-23 15:08:18,424	25943	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Adding The Cookies Successfully = 16
+INFO	2023-02-23 15:08:51,417	58936	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Data Base Connection Close Successfully
+DEBUG	2023-02-23 15:23:57,162	0	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	This is the Data Driven Framework Performed On The Mercury
+INFO	2023-02-23 15:23:59,647	2485	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Open The Browser Successfully
+INFO	2023-02-23 15:24:02,287	5125	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Sending The URL Successfully
+INFO	2023-02-23 15:24:02,468	5306	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Maximize and Putting Wait Successfully
+INFO	2023-02-23 15:24:02,585	5423	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Adding The Cookies Successfully = 5
+INFO	2023-02-23 15:24:19,519	22357	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Mercury Register Successfully
+INFO	2023-02-23 15:24:21,812	24650	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Screen Shot Taken Successfully
+INFO	2023-02-23 15:24:21,826	24664	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Adding The Cookies Successfully = 16
+INFO	2023-02-23 15:24:25,856	28694	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Mercury Login Page Successfully
+INFO	2023-02-23 15:24:28,143	30981	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Screen Shot Taken Successfully
+INFO	2023-02-23 15:24:28,157	30995	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Adding The Cookies Successfully = 16
+INFO	2023-02-23 15:24:46,839	49677	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Successfully Booking The Flight On Mercury
+INFO	2023-02-23 15:24:49,146	51984	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Screen Shot Taken Successfully
+INFO	2023-02-23 15:24:49,268	52106	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Delete All The Cookies Successfully
+INFO	2023-02-23 15:24:49,269	52107	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Data Base Connection Close Successfully
+INFO	2023-02-23 15:24:51,809	54647	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Browser Close Successfully
+DEBUG	2023-05-17 16:15:20,697	0	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	This is the Data Driven Framework Performed On The Mercury
+DEBUG	2024-05-05 01:36:03,653	0	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	This is the Data Driven Framework Performed On The Mercury
+INFO	2024-05-05 01:36:05,935	2282	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Open The Browser Successfully
+INFO	2024-05-05 01:36:09,519	5866	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Sending The URL Successfully
+INFO	2024-05-05 01:36:09,713	6060	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Maximize and Putting Wait Successfully
+INFO	2024-05-05 01:36:09,738	6085	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Adding The Cookies Successfully = 16
+INFO	2024-05-05 01:36:23,085	19432	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Mercury Register Successfully
+INFO	2024-05-05 01:36:25,312	21659	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Screen Shot Taken Successfully
+INFO	2024-05-05 01:36:25,323	21670	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Adding The Cookies Successfully = 17
+INFO	2024-05-05 01:36:28,097	24444	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Mercury Login Page Successfully
+INFO	2024-05-05 01:36:30,262	26609	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Screen Shot Taken Successfully
+INFO	2024-05-05 01:36:30,264	26611	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Adding The Cookies Successfully = 17
+INFO	2024-05-05 01:36:43,218	39565	com.cjc.webapp.mercury.Test.MercuryTest	[main]	Successfully Booking The Flight On Mercury
+INFO	2024-05-05 01:36:45,413	41760	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Screen Shot Taken Successfully
+INFO	2024-05-05 01:36:45,494	41841	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Delete All The Cookies Successfully
+INFO	2024-05-05 01:36:45,495	41842	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Data Base Connection Close Successfully
+INFO	2024-05-05 01:36:47,681	44028	com.cjc.webapp.mercury.Utility.MercuryCommonUtility	[main]	Browser Close Successfully
